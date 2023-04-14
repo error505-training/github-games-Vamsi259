@@ -1,4 +1,4 @@
-## Welcome to GitHub Games, Vamsi259 trying to edit
+## Welcome to GitHub Games, Vamsi259 trying to edit after corrected sytnax error in codeowner file
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
